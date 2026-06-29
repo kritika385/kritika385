@@ -2,6 +2,4 @@
 
 ### My LeetCode Badges 🚀
 
-[![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-100--Day%20Streak%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kritika_3/)
-
-[![LeetCode 50 Days](https://img.shields.io/badge/LeetCode-50--Day%20Streak%20Badge-FF2D55?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kritika_3/)
+<img src="https://github.com/user-attachments/assets/552e8f97-d658-4f3d-8667-c7b880152305" width="180" alt="50 day" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/0ea300ec-f3d9-4c73-9c2d-aecdb2c9c7af" width="180" alt="100" />
